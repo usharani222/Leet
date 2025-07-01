@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/usharani222/Leet/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
