@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
