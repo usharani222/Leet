@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
