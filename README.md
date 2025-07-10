@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/usharani222/Leet/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
