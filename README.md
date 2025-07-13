@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sliding Window
 |  |
 | ------- |
