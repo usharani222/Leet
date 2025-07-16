@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
+| [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/usharani222/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/usharani222/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
