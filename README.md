@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/usharani222/Leet/tree/master/0008-string-to-integer-atoi) |
+| [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [3617-find-the-original-typed-string-i](https://github.com/usharani222/Leet/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
