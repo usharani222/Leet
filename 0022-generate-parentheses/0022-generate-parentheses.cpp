@@ -4,7 +4,7 @@ public:
         if(open==0&&close==0)   
         {
             v.push_back(s);
-            return ;
+            return;
         }
         if(open>0)
         {
