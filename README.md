@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/usharani222/Leet/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
+| [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -128,9 +129,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
