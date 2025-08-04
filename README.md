@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/usharani222/Leet/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/usharani222/Leet/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
