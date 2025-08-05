@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
