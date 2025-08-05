@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3221-find-the-peaks](https://github.com/usharani222/Leet/tree/master/3221-find-the-peaks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/usharani222/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,4 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
 | [2047-find-a-peak-element-ii](https://github.com/usharani222/Leet/tree/master/2047-find-a-peak-element-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
