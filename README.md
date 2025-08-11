@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usharani222/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/usharani222/Leet/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2529-range-product-queries-of-powers](https://github.com/usharani222/Leet/tree/master/2529-range-product-queries-of-powers) |
 | [3221-find-the-peaks](https://github.com/usharani222/Leet/tree/master/3221-find-the-peaks) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/usharani222/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usharani222/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2529-range-product-queries-of-powers](https://github.com/usharani222/Leet/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [2529-range-product-queries-of-powers](https://github.com/usharani222/Leet/tree/master/2529-range-product-queries-of-powers) |
 ## Dynamic Programming
 |  |
 | ------- |
