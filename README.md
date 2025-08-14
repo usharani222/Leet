@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/usharani222/Leet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/usharani222/Leet/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/usharani222/Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/usharani222/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/usharani222/Leet/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/usharani222/Leet/tree/master/0504-base-7) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/usharani222/Leet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/usharani222/Leet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/usharani222/Leet/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
