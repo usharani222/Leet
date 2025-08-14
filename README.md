@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/usharani222/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/usharani222/Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/usharani222/Leet/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
