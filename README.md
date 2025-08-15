@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/usharani222/Leet/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/usharani222/Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Design
 |  |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
