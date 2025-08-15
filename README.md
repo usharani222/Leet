@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/usharani222/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/usharani222/Leet/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/usharani222/Leet/tree/master/0504-base-7) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/usharani222/Leet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
+| [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/usharani222/Leet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/usharani222/Leet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/usharani222/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
