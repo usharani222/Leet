@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/usharani222/Leet/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usharani222/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/usharani222/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
