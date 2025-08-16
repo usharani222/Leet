@@ -4,9 +4,9 @@ public:
     {
         int n=triangle.size();
         int m=triangle[n-1].size();
-        vector<int> v(m+1,0);
-        triangle.push_back(v);
-        for(int i=n-1;i>=0;i--)
+        // vector<int> v(m+1,0);
+        // triangle.push_back(v);
+        for(int i=n-2;i>=0;i--)
         {
             for(int j=0;j<triangle[i].size();j++)
             {
