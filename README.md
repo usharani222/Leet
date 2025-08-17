@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/usharani222/Leet/tree/master/0175-combine-two-tables) |
+| [0627-swap-salary](https://github.com/usharani222/Leet/tree/master/0627-swap-salary) |
 ## Linked List
 |  |
 | ------- |
