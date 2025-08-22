@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/usharani222/Leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/usharani222/Leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2047-find-a-peak-element-ii](https://github.com/usharani222/Leet/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
