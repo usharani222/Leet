@@ -6,8 +6,7 @@ public:
         sort(intervals.begin(),intervals.end());
         for(int i=0;i<intervals.size();i++)
         {
-            if(!v.empty()&&v[v.size()-1][1]>=intervals[i][0]) 
-            v[v.size()-1][1]=max(v[v.size()-1][1],intervals[i][1]);
+            if(!v.empty()&&v.back()[1]>=intervals[i][0]) v.back()[1]=max(v.back()[1],intervals[i][1]);
             else v.push_back(intervals[i]);
         }   
         return v;
