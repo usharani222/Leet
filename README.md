@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/usharani222/Leet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/usharani222/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/usharani222/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/usharani222/Leet/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
