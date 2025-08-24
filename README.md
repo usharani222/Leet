@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/usharani222/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/usharani222/Leet/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/usharani222/Leet/tree/master/0657-robot-return-to-origin) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
