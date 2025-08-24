@@ -6,15 +6,12 @@ public:
         while(j<nums.size())
         {
             if(nums[j]==0) c++;
-            if(c>1) 
+            while(c>1)
             {
-                while(c>1)
-                {
-                    if(nums[i]==0) c--;
-                    i++;
-                } 
-            }
-            if(c<=1) maxi=max(maxi,j-i+1);
+                if(nums[i]==0) c--;
+                i++;
+            } 
+            maxi=max(maxi,j-i+1);
             // cout<<maxi <<" "<<j<<" "<<i<<" "<<c <<endl;
             j++;
         }
