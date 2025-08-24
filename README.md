@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/usharani222/Leet/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
+| [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/usharani222/Leet/tree/master/0657-robot-return-to-origin) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
