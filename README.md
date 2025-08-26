@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/usharani222/Leet/tree/master/2529-range-product-queries-of-powers) |
 | [3221-find-the-peaks](https://github.com/usharani222/Leet/tree/master/3221-find-the-peaks) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/usharani222/Leet/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/usharani222/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
