@@ -5,15 +5,9 @@ public:
         map<int,int> m;
         for(int i=0;i<nums.size();i++)
         {
-            if(m.find(target-nums[i])!=m.end())
-            {
-                return {i,m[(target-nums[i])]};
-            }
-            else
-            {
-                m[nums[i]]=i;
-            }
-        }
-        return {0,0};
+            if(m.find(target-nums[i])!=m.end()) return{i,m[target-nums[i]]};
+            m[nums[i]]=i;
+        }   
+        return {};
     }
 };
