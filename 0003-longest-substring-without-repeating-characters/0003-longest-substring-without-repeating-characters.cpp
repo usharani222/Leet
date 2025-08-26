@@ -12,10 +12,9 @@ public:
                 l++;
             }
             st.insert(s[r]);
-            int len=r-l+1;
-            maxi=max(maxi,len);
+            maxi=max(maxi,r-l+1);
             r++;
-        }
+        }    
         return maxi;
     }
 };
