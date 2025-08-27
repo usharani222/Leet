@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/usharani222/Leet/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/usharani222/Leet/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/usharani222/Leet/tree/master/0535-encode-and-decode-tinyurl) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/usharani222/Leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
@@ -339,14 +343,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
@@ -368,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
