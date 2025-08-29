@@ -2,7 +2,7 @@ class Solution {
 public:
     void dfs(vector<vector<int>> &grid,int i,int j)
     {
-        grid[i][j]=2;
+        grid[i][j]=0;
         vector<pair<int,int>> dirs={{1,0},{-1,0},{0,-1},{0,1}};
         for(auto [di,dj]:dirs)
         {
