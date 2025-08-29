@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 ## Binary Search
 |  |
 | ------- |
