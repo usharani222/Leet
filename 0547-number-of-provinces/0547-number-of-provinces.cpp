@@ -27,14 +27,14 @@ public:
                 }
             }
         }  
-        vector<int> v(n,0);
+        vector<int> vis(n,0);
         int c=0;
         for(int i=0;i<n;i++)
         {
-            if(v[i]==0)
+            if(vis[i]==0)
             {
                 c++;
-                dfs(i,adjList,v);
+                dfs(i,adjList,vis);
             }
         }
         return c;
