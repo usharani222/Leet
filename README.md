@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/usharani222/Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/usharani222/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/usharani222/Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/usharani222/Leet/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/usharani222/Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/usharani222/Leet/tree/master/0543-diameter-of-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
