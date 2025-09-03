@@ -16,9 +16,6 @@ public:
         for(int i=0;i<n;i++)    
         {
             if(isprime(nums[i][i])) ans=max(ans,nums[i][i]);
-        }
-        for(int i=0;i<n;i++)
-        {
             if(isprime(nums[i][n-i-1])) ans=max(ans,nums[i][n-i-1]);
         }
         return ans;
