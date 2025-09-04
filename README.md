@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/usharani222/Leet/tree/master/2556-convert-the-temperature) |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/usharani222/Leet/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
