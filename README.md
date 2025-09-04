@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/usharani222/Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/usharani222/Leet/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/usharani222/Leet/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/usharani222/Leet/tree/master/0572-subtree-of-another-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/usharani222/Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/usharani222/Leet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/usharani222/Leet/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -425,8 +428,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/usharani222/Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/usharani222/Leet/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/usharani222/Leet/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/usharani222/Leet/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
