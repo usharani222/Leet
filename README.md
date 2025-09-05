@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/usharani222/Leet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/usharani222/Leet/tree/master/0120-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/usharani222/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/usharani222/Leet/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/usharani222/Leet/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/usharani222/Leet/tree/master/0205-isomorphic-strings) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/usharani222/Leet/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usharani222/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/usharani222/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/usharani222/Leet/tree/master/0207-course-schedule) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/usharani222/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
