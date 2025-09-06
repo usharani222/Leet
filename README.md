@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/usharani222/Leet/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/usharani222/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/usharani222/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/usharani222/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/usharani222/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
