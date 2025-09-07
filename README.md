@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/usharani222/Leet/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/usharani222/Leet/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/usharani222/Leet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/usharani222/Leet/tree/master/0371-sum-of-two-integers) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/usharani222/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/usharani222/Leet/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
