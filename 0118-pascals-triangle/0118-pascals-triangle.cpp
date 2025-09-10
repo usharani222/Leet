@@ -1,24 +1,16 @@
 class Solution {
 public:
     vector<vector<int>> generate(int n) {
-        vector<vector<int>> v(n);
-        if(n==0)    return v;
-        v[0]={1};
-        if(n==1)    return v;
-        v[1]={1,1};
-        if(n==2)    return v;
-        for(int i=2;i<n;i++)
+        vector<vector<int>> ans;
+        for(int i=0;i<n;i++)
         {
-            vector<int> res(i+1);
-            int k=1;
-            res[0]=1,res[i]=1;
-            while(k<i)
+            vector<int> v(i+1,1);
+            for(int j=1;j<i;j++)
             {
-                res[k]=v[i-1][k-1]+v[i-1][k];
-                k++;
+                v[j]=ans[i-1][j-1]+ans[i-1][j];
             }
-            v[i]=res;
+            ans.push_back(v);
         }
-        return v;
+        return ans;
     }
 };
