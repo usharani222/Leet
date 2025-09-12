@@ -10,6 +10,11 @@ public:
         } 
         if(ans==0) return false;
         // if(ans%2!=0) 
-        return true;  
+        return true;   
+        // int c=1;
+        // while(n>0)
+        // {
+        // }
+
     }
 };
