@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/usharani222/Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/usharani222/Leet/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/usharani222/Leet/tree/master/3019-furthest-point-from-origin) |
+| [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/usharani222/Leet/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/usharani222/Leet/tree/master/1448-maximum-69-number) |
 | [2556-convert-the-temperature](https://github.com/usharani222/Leet/tree/master/2556-convert-the-temperature) |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
+| [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/usharani222/Leet/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -494,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/usharani222/Leet/tree/master/0789-kth-largest-element-in-a-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
