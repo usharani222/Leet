@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/usharani222/Leet/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/usharani222/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/usharani222/Leet/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/usharani222/Leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/usharani222/Leet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/usharani222/Leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/usharani222/Leet/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/usharani222/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
