@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/usharani222/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/usharani222/Leet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/usharani222/Leet/tree/master/3019-furthest-point-from-origin) |
 | [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/usharani222/Leet/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/usharani222/Leet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
 | [3019-furthest-point-from-origin](https://github.com/usharani222/Leet/tree/master/3019-furthest-point-from-origin) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/usharani222/Leet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
