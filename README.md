@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/usharani222/Leet/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/usharani222/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/usharani222/Leet/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/usharani222/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/usharani222/Leet/tree/master/0342-power-of-four) |
