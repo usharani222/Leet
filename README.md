@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/usharani222/Leet/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/usharani222/Leet/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/usharani222/Leet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
@@ -470,12 +471,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/usharani222/Leet/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/usharani222/Leet/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/usharani222/Leet/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/usharani222/Leet/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/usharani222/Leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/usharani222/Leet/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/usharani222/Leet/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/usharani222/Leet/tree/master/0503-next-greater-element-ii) |
 ## Hash Function
 |  |
 | ------- |
