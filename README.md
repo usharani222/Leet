@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/usharani222/Leet/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/usharani222/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/usharani222/Leet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/usharani222/Leet/tree/master/0371-sum-of-two-integers) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/usharani222/Leet/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/usharani222/Leet/tree/master/0657-robot-return-to-origin) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/usharani222/Leet/tree/master/0258-add-digits) |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
 ## String Matching
 |  |
