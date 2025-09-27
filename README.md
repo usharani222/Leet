@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/usharani222/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/usharani222/Leet/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usharani222/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/usharani222/Leet/tree/master/2887-sort-vowels-in-a-string) |
 ## Prefix Sum
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/usharani222/Leet/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2529-range-product-queries-of-powers](https://github.com/usharani222/Leet/tree/master/2529-range-product-queries-of-powers) |
 ## Dynamic Programming
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/usharani222/Leet/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/usharani222/Leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/usharani222/Leet/tree/master/1448-maximum-69-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/usharani222/Leet/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/usharani222/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/usharani222/Leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/usharani222/Leet/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
