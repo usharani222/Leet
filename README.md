@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/usharani222/Leet/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/usharani222/Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/usharani222/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/usharani222/Leet/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/usharani222/Leet/tree/master/0326-power-of-three) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/usharani222/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/usharani222/Leet/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/usharani222/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/usharani222/Leet/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/usharani222/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
