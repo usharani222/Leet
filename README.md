@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/usharani222/Leet/tree/master/0504-base-7) |
 | [0670-maximum-swap](https://github.com/usharani222/Leet/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/usharani222/Leet/tree/master/0830-largest-triangle-area) |
+| [1013-fibonacci-number](https://github.com/usharani222/Leet/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/usharani222/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usharani222/Leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/usharani222/Leet/tree/master/1448-maximum-69-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/usharani222/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/usharani222/Leet/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/usharani222/Leet/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/usharani222/Leet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/usharani222/Leet/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1013-fibonacci-number](https://github.com/usharani222/Leet/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/usharani222/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/usharani222/Leet/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
