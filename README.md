@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/usharani222/Leet/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/usharani222/Leet/tree/master/0303-range-sum-query-immutable) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/usharani222/Leet/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/usharani222/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/usharani222/Leet/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/usharani222/Leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/usharani222/Leet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/usharani222/Leet/tree/master/0371-sum-of-two-integers) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/usharani222/Leet/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/usharani222/Leet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/usharani222/Leet/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/usharani222/Leet/tree/master/0371-sum-of-two-integers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/usharani222/Leet/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/usharani222/Leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/usharani222/Leet/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
@@ -448,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/usharani222/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/usharani222/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/usharani222/Leet/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/usharani222/Leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
