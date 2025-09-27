@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/usharani222/Leet/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/usharani222/Leet/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/usharani222/Leet/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/usharani222/Leet/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/usharani222/Leet/tree/master/0496-next-greater-element-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/usharani222/Leet/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
