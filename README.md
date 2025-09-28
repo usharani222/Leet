@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/usharani222/Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/usharani222/Leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/usharani222/Leet/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/usharani222/Leet/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/usharani222/Leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/usharani222/Leet/tree/master/0414-third-maximum-number) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
