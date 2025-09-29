@@ -23,7 +23,7 @@ public:
         if(nums.empty()) return 0;
         int ans=0;
         unordered_set<int> s(nums.begin(),nums.end());
-        for(int i:nums)
+        for(int i:s)
         {
             if(s.find(i-1)==s.end())
             {
