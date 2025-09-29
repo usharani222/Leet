@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/usharani222/Leet/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/usharani222/Leet/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/usharani222/Leet/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/usharani222/Leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/usharani222/Leet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/usharani222/Leet/tree/master/0055-jump-game) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/usharani222/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/usharani222/Leet/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/usharani222/Leet/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/usharani222/Leet/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/usharani222/Leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/usharani222/Leet/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/usharani222/Leet/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
