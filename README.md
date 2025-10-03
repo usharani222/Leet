@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/usharani222/Leet/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/usharani222/Leet/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
+| [3336-water-bottles-ii](https://github.com/usharani222/Leet/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/usharani222/Leet/tree/master/3830-find-closest-person) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/usharani222/Leet/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/usharani222/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/usharani222/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/usharani222/Leet/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
