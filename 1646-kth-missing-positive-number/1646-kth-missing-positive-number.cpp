@@ -8,8 +8,7 @@ public:
         {
             if(s.find(i)==s.end()) c++;
             if(c==k) return i;
-            cout<<i<<' '<<c<<endl;
         }  
-        return n+(n-k);
+        return 0;
     }
 };
