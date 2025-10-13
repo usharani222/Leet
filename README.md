@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/usharani222/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/usharani222/Leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/usharani222/Leet/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/usharani222/Leet/tree/master/1039-find-the-town-judge) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/usharani222/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/usharani222/Leet/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/usharani222/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/usharani222/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/usharani222/Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/usharani222/Leet/tree/master/2887-sort-vowels-in-a-string) |
 | [3019-furthest-point-from-origin](https://github.com/usharani222/Leet/tree/master/3019-furthest-point-from-origin) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/usharani222/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/usharani222/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/usharani222/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
