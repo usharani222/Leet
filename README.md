@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/usharani222/Leet/tree/master/3019-furthest-point-from-origin) |
 | [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/usharani222/Leet/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/usharani222/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/usharani222/Leet/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/usharani222/Leet/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/usharani222/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/usharani222/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/usharani222/Leet/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/usharani222/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/usharani222/Leet/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/usharani222/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/usharani222/Leet/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/usharani222/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/usharani222/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/usharani222/Leet/tree/master/0258-add-digits) |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/usharani222/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
