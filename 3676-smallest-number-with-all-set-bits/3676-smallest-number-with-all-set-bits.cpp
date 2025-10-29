@@ -10,11 +10,7 @@ public:
         return true;
     }
     int smallestNumber(int n) {
-        for(int i=n;i<INT_MAX;i++)  
-        {
-            if(isset(i)) return i;
-            cout<<i<<endl;
-        }
+        for(int i=n;i<INT_MAX;i++)  if(isset(i)) return i;
         return 0;
     }
 };
