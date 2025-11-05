@@ -24,7 +24,6 @@ public:
             if(i==res.size()) t->next=NULL;
             else t=t->next;
         }
-        // t=NULL;
         return head;
     }
 };
