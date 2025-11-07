@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/usharani222/Leet/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/usharani222/Leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/usharani222/Leet/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/usharani222/Leet/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/usharani222/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/usharani222/Leet/tree/master/0119-pascals-triangle-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/usharani222/Leet/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/usharani222/Leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/usharani222/Leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/usharani222/Leet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/usharani222/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/usharani222/Leet/tree/master/0283-move-zeroes) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/usharani222/Leet/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/usharani222/Leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/usharani222/Leet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/usharani222/Leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
