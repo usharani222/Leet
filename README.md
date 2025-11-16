@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/usharani222/Leet/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/usharani222/Leet/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1769-get-maximum-in-generated-array](https://github.com/usharani222/Leet/tree/master/1769-get-maximum-in-generated-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usharani222/Leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/usharani222/Leet/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/usharani222/Leet/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/usharani222/Leet/tree/master/1642-water-bottles) |
+| [1769-get-maximum-in-generated-array](https://github.com/usharani222/Leet/tree/master/1769-get-maximum-in-generated-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/usharani222/Leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/usharani222/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/usharani222/Leet/tree/master/2288-count-operations-to-obtain-zero) |
