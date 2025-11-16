@@ -8,7 +8,7 @@ public:
             if(number[i]==digit)
             {
                 last=i;
-                if(i<number.size()&&number[i]<number[i+1]) return number.substr(0,i)+number.substr(i+1);
+                if(i<number.size()&&number[i]<number[i+1]) break;
             }
         }    
         return number.substr(0,last)+number.substr(last+1);
