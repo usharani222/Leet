@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/usharani222/Leet/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/usharani222/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/usharani222/Leet/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2483-task-scheduler-ii](https://github.com/usharani222/Leet/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/usharani222/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/usharani222/Leet/tree/master/2529-range-product-queries-of-powers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/usharani222/Leet/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1904-second-largest-digit-in-a-string](https://github.com/usharani222/Leet/tree/master/1904-second-largest-digit-in-a-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/usharani222/Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2483-task-scheduler-ii](https://github.com/usharani222/Leet/tree/master/2483-task-scheduler-ii) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/usharani222/Leet/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/usharani222/Leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/usharani222/Leet/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/usharani222/Leet/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/usharani222/Leet/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2483-task-scheduler-ii](https://github.com/usharani222/Leet/tree/master/2483-task-scheduler-ii) |
 | [3336-water-bottles-ii](https://github.com/usharani222/Leet/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/usharani222/Leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/usharani222/Leet/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
