@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/usharani222/Leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/usharani222/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/usharani222/Leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/usharani222/Leet/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/usharani222/Leet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/usharani222/Leet/tree/master/0345-reverse-vowels-of-a-string) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/usharani222/Leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/usharani222/Leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/usharani222/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/usharani222/Leet/tree/master/0414-third-maximum-number) |
