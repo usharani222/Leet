@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/usharani222/Leet/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/usharani222/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/usharani222/Leet/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/usharani222/Leet/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/usharani222/Leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/usharani222/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/usharani222/Leet/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/usharani222/Leet/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/usharani222/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/usharani222/Leet/tree/master/0119-pascals-triangle-ii) |
