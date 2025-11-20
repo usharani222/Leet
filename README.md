@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/usharani222/Leet/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/usharani222/Leet/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/usharani222/Leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/usharani222/Leet/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/usharani222/Leet/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/usharani222/Leet/tree/master/0657-robot-return-to-origin) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/usharani222/Leet/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/usharani222/Leet/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/usharani222/Leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/usharani222/Leet/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/usharani222/Leet/tree/master/0647-palindromic-substrings) |
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
