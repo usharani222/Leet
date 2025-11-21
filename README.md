@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/usharani222/Leet/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/usharani222/Leet/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/usharani222/Leet/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/usharani222/Leet/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/usharani222/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/usharani222/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/usharani222/Leet/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/usharani222/Leet/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/usharani222/Leet/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/usharani222/Leet/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/usharani222/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
