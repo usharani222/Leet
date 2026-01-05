@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/usharani222/Leet/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/usharani222/Leet/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/usharani222/Leet/tree/master/1179-game-play-analysis-i) |
+| [1527-patients-with-a-condition](https://github.com/usharani222/Leet/tree/master/1527-patients-with-a-condition) |
 | [1837-daily-leads-and-partners](https://github.com/usharani222/Leet/tree/master/1837-daily-leads-and-partners) |
 ## Linked List
 |  |
