@@ -743,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/usharani222/Leet/tree/master/0830-largest-triangle-area) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
