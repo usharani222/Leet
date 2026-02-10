@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/usharani222/Leet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/usharani222/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/usharani222/Leet/tree/master/0792-binary-search) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usharani222/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/usharani222/Leet/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/usharani222/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/usharani222/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
