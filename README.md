@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/usharani222/Leet/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/usharani222/Leet/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/usharani222/Leet/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/usharani222/Leet/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/usharani222/Leet/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/usharani222/Leet/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/usharani222/Leet/tree/master/0171-excel-sheet-column-number) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/usharani222/Leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/usharani222/Leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/usharani222/Leet/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/usharani222/Leet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/usharani222/Leet/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/usharani222/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/usharani222/Leet/tree/master/0283-move-zeroes) |
