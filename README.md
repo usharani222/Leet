@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/usharani222/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/usharani222/Leet/tree/master/0496-next-greater-element-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/usharani222/Leet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/usharani222/Leet/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/usharani222/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/usharani222/Leet/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/usharani222/Leet/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/usharani222/Leet/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/usharani222/Leet/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/usharani222/Leet/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/usharani222/Leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/usharani222/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/usharani222/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/usharani222/Leet/tree/master/2486-most-frequent-even-element) |
@@ -771,4 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/usharani222/Leet/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/usharani222/Leet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
