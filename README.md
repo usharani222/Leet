@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/usharani222/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/usharani222/Leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/usharani222/Leet/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/usharani222/Leet/tree/master/0830-largest-triangle-area) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/usharani222/Leet/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/usharani222/Leet/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/usharani222/Leet/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/usharani222/Leet/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/usharani222/Leet/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/usharani222/Leet/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
