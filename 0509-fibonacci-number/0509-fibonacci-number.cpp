@@ -1,7 +1,17 @@
 class Solution {
 public:
-    int fib(int n) {
+    int fibnocii(int n,vector<int> &dp)
+    {
         if(n<=1) return n;
-        return fib(n-1)+fib(n-2);
+        if(dp[n]!=-1) return dp[n];
+        return dp[n]=fibnocii(n-1,dp)+fibnocii(n-2,dp);
+    }
+    int fib(int n) {
+        // if(n<=1) return n;
+        // return fib(n-1)+fib(n-2);
+
+        // Memorisation
+        vector<int> dp(n+1,-1);
+        return fibnocii(n,dp);
     }
 };
