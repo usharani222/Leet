@@ -1,18 +1,20 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image, int i, int j, int color,int n)
+    void dfs(vector<vector<int>>& image, int i, int j, int color,int startc)
     {
         image[i][j]=color;
-        if(i>0 && image[i-1][j]==n)  dfs(image,i-1,j,color,n);
-        if(i<image.size()-1 && image[i+1][j]==n)   dfs(image,i+1,j,color,n);
-        if(j>0 && image[i][j-1]==n) dfs(image,i,j-1,color,n);
-        if(j<image[0].size()-1&& image[i][j+1]==n)  dfs(image,i,j+1,color,n);
+        vector<pair<int,int>> p={{-1,0},{0,-1},{1,0},{0,1}};
+        for(auto x:p)
+        {
+            int di=x.first+i;
+            int dj=x.second+j;
+            if(di>=0&&dj>=0&&di<image.size()&&dj<image[0].size()&&image[di][dj]==startc) dfs(image,di,dj,color,startc);
+        }
     }
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) 
-    {
-        int n=image[sr][sc];
-        if(n==color)    return image;
-        dfs(image,sr,sc,color,n);
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int startc=image[sr][sc];
+        if(startc==color) return image;
+        dfs(image,sr,sc,color,startc);
         return image;
     }
 };
