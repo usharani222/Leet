@@ -4,10 +4,12 @@ public:
     {
         grid[i][j]=2;
         count++;
-        if(i>0&&grid[i-1][j]==1)    dfs(grid,i-1,j,count);
-        if(i<grid.size()-1&&grid[i+1][j]==1)    dfs(grid,i+1,j,count);
-        if(j>0&&grid[i][j-1]==1)    dfs(grid,i,j-1,count);
-        if(j<grid[0].size()-1&&grid[i][j+1]==1) dfs(grid,i,j+1,count);
+        vector<pair<int,int>> p={{-1,0},{0,-1},{1,0},{0,1}};
+        for(auto [x,y]:p)
+        {
+            int di=x+i,dj=y+j;
+            if(di>=0 && dj>=0 && di<grid.size() && dj<grid[0].size() && grid[di][dj]==1) dfs(grid,di,dj,count);
+        }
         return;   
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) 
