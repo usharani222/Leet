@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/usharani222/Leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/usharani222/Leet/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/usharani222/Leet/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/usharani222/Leet/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/usharani222/Leet/tree/master/0907-koko-eating-bananas) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/usharani222/Leet/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/usharani222/Leet/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/usharani222/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0752-open-the-lock](https://github.com/usharani222/Leet/tree/master/0752-open-the-lock) |
 | [0926-find-and-replace-pattern](https://github.com/usharani222/Leet/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/usharani222/Leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/usharani222/Leet/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/usharani222/Leet/tree/master/0657-robot-return-to-origin) |
+| [0752-open-the-lock](https://github.com/usharani222/Leet/tree/master/0752-open-the-lock) |
 | [0800-letter-case-permutation](https://github.com/usharani222/Leet/tree/master/0800-letter-case-permutation) |
 | [0926-find-and-replace-pattern](https://github.com/usharani222/Leet/tree/master/0926-find-and-replace-pattern) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/usharani222/Leet/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/usharani222/Leet/tree/master/0752-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
@@ -827,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/usharani222/Leet/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/usharani222/Leet/tree/master/0455-assign-cookies) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/usharani222/Leet/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
