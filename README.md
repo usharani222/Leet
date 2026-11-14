@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/usharani222/Leet/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
+| [1162-as-far-from-land-as-possible](https://github.com/usharani222/Leet/tree/master/1162-as-far-from-land-as-possible) |
 | [1200-minimum-absolute-difference](https://github.com/usharani222/Leet/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
 | [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/usharani222/Leet/tree/master/1013-fibonacci-number) |
+| [1162-as-far-from-land-as-possible](https://github.com/usharani222/Leet/tree/master/1162-as-far-from-land-as-possible) |
 | [1250-longest-common-subsequence](https://github.com/usharani222/Leet/tree/master/1250-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/usharani222/Leet/tree/master/1463-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/usharani222/Leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/usharani222/Leet/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/usharani222/Leet/tree/master/1162-as-far-from-land-as-possible) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
 | [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/usharani222/Leet/tree/master/1463-cherry-pickup-ii) |
