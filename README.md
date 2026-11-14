@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/usharani222/Leet/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/usharani222/Leet/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/usharani222/Leet/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/usharani222/Leet/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
+| [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 ## Matrix
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/usharani222/Leet/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0931-minimum-falling-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
 | [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
