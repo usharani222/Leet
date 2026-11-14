@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/usharani222/Leet/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
+| [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/usharani222/Leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/usharani222/Leet/tree/master/1390-four-divisors) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/usharani222/Leet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/usharani222/Leet/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/usharani222/Leet/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
+| [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/usharani222/Leet/tree/master/1463-cherry-pickup-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/usharani222/Leet/tree/master/2047-find-a-peak-element-ii) |
 | [2722-prime-in-diagonal](https://github.com/usharani222/Leet/tree/master/2722-prime-in-diagonal) |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/usharani222/Leet/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/usharani222/Leet/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/usharani222/Leet/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
