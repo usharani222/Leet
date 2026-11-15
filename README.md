@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/usharani222/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/usharani222/Leet/tree/master/0994-rotting-oranges) |
 | [1018-largest-perimeter-triangle](https://github.com/usharani222/Leet/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/usharani222/Leet/tree/master/1029-two-city-scheduling) |
 | [1039-find-the-town-judge](https://github.com/usharani222/Leet/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/usharani222/Leet/tree/master/1073-number-of-enclaves) |
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/usharani222/Leet/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/usharani222/Leet/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/usharani222/Leet/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/usharani222/Leet/tree/master/1029-two-city-scheduling) |
 | [1137-height-checker](https://github.com/usharani222/Leet/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/usharani222/Leet/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/usharani222/Leet/tree/master/1253-sort-the-matrix-diagonally) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/usharani222/Leet/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/usharani222/Leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/usharani222/Leet/tree/master/1018-largest-perimeter-triangle) |
+| [1029-two-city-scheduling](https://github.com/usharani222/Leet/tree/master/1029-two-city-scheduling) |
 | [1448-maximum-69-number](https://github.com/usharani222/Leet/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/usharani222/Leet/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/usharani222/Leet/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -835,4 +838,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/usharani222/Leet/tree/master/0752-open-the-lock) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/usharani222/Leet/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/usharani222/Leet/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
